@@ -1,13 +1,17 @@
 # FilmLit
 
-A textual analysis of movies using subtitles. 
+A textual analysis of movies using subtitles.
 
 ## Components
 
-Projects consits of four parts: 
+Projects consists of four parts:
+~~~
 i) constructing a database of movies
+~~~
 ii) constructing a database of movie subtitles
+~~~
 iii) creating some machine learning model that incorporates NLP
+~~~
 iv) compare it to the MovieLens dataset
 
 ### i) Data Acquisition
@@ -15,7 +19,7 @@ iv) compare it to the MovieLens dataset
 Makes use of the open subtitles API, and moviedb API.
 
 ```
-Text needs to be cleaned. 
+Text needs to be cleaned.
 ```
 
 
