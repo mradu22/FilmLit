@@ -8,11 +8,16 @@ Projects consists of four parts:
 ~~~
 i) constructing a database of movies
 ~~~
+~~~
 ii) constructing a database of movie subtitles
 ~~~
-iii) creating some machine learning model that incorporates NLP
 ~~~
-iv) compare it to the MovieLens dataset
+iii) creating a recommender system using a machine learning model and incorporates NLP
+~~~
+~~~
+iv) compare it to the MovieLens dataset.
+~~~
+~~~
 
 ### i) Data Acquisition
 
